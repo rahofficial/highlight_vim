@@ -60,6 +60,6 @@
 #
 hlnum,ctermfg,ctermbg,guifg,guibg,regex,bold,underline,italic,ignorecase
 1,black,magenta,black,magenta,reported state change,0,0,0,0
-#2,black,red,black,red,ERROR,0,0,0,1
-#3,black,blue,black,blue,INFO,0,0,0,1
-#4,black,yellow,black,yellow,WARN,0,0,0,1
+2,black,red,black,red,ERROR,0,0,0,1
+3,black,blue,black,blue,INFO,0,0,0,1
+4,black,yellow,black,yellow,WARN,0,0,0,1
